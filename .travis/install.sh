@@ -22,5 +22,5 @@ fi
 pip install conan --upgrade
 pip install conan_package_tools
 
-conan add remote upload_repo "https://dl.bintray.com/dario-ramos/conan_test"
+conan remote add upload_repo "https://dl.bintray.com/dario-ramos/conan_test"
 conan user
