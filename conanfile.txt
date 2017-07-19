@@ -1,0 +1,2 @@
+[requires]
+conan_boost/1.64.0@dario-ramos/stable
